@@ -1,5 +1,4 @@
-# bash_scripts
-
+# bash_snippets
 This is a list of useful commands
 
 # Delete history
